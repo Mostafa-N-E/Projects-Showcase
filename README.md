@@ -1,5 +1,5 @@
-# Projects-Showcase
-
+# Projects Showcase
+Here I will post photos and videos of the projects I did, I hope you like them
 
 
 ## Demo
