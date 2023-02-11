@@ -4,14 +4,17 @@ Here I will post photos and videos of the projects I did, I hope you like them
 
 ## BMI Calculator
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> video </a>
+__________________________________________________________
+
+
 
 # Malakut
 ## Malakut version 1
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut.gif"> video </a>
 
-
 ## Malakut version 2
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut_2.gif"> video </a>
+__________________________________________________________
 
 
 
