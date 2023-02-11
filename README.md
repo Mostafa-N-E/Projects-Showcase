@@ -2,25 +2,27 @@
 Here I will post photos and videos of the projects I did, I hope you like them
 
 
-## Bmi Calculator
+## BMI Calculator
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> video </a>
 
-
-## Demo
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/App gifs/malakut_2.gif" alt="GIF" style="width:300px;"/>
-
-
-## Demo
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/App gifs/samad_staff_app.gif" alt="GIF" style="width:300px;"/>
+# Malakut
+## Malakut version 1
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut.gif"> video </a>
 
 
-## Demo
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/App gifs/samad_student_app.gif" alt="GIF" style="width:300px;"/>
+## Malakut version 2
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut_2.gif"> video </a>
 
 
-## Demo
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/App gifs/self_service_device.gif" alt="GIF" style="width:300px;"/>
+
+# SAMAD
+## SAMAD Staff App
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_staff_app.gif"> video </a>
 
 
-## Demo
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/App gifs/bmi_calculator.gif" alt="GIF" style="width:300px;"/>
+## SAMAD Student App
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_student_app.gif"> video </a>
+
+
+## SAMAD Self Service Device
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/self_service_device.gif"> video </a>
