@@ -2,8 +2,8 @@
 Here I will post photos and videos of the projects I did, I hope you like them
 
 
-## Demo
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/App gifs/malakut.gif"> video </a>
+## Bmi Calculator
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> video </a>
 
 
 ## Demo
