@@ -4,12 +4,16 @@ Here I will post photos and videos of the projects I did, I hope you like them
 
 ## BMI Calculator
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> video </a>
+[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.png)
 __________________________________________________________
 
 
 
 # Malakut
 ## Malakut version 1
+[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png)
+<!-- [![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png) -->
+
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut.gif"> video </a>
 
 ## Malakut version 2
