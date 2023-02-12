@@ -38,5 +38,5 @@ __________________________________________________________
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_student_app.gif">View the video from the application environment</a>
 
 
-## Self Service Device
+## Self Service Device App
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/self_service_device.gif">View the video from the application environment</a>
