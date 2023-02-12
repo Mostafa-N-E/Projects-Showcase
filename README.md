@@ -28,14 +28,15 @@ __________________________________________________________
 
 
 
-# SAMAD
-## SAMAD Staff App
+# Student welfare management system
+### Food reservation and delivery system and dormitory service
+## Staff App
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_staff_app.gif"> video </a>
 
 
-## SAMAD Student App
+## Student App
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_student_app.gif"> video </a>
 
 
-## SAMAD Self Service Device
+## Self Service Device
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/self_service_device.gif"> video </a>
