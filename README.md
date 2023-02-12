@@ -2,14 +2,6 @@
 Here I will post photos and videos of the projects I did, I hope you like them
 
 
-## BMI Calculator
-
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.jpg" width="200">
-
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> View the video from the application environment </a>
-__________________________________________________________
-
-
 
 
 # Malakut
