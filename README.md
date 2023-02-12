@@ -4,7 +4,7 @@ Here I will post photos and videos of the projects I did, I hope you like them
 
 ## BMI Calculator
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> video </a>
-[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.png)
+[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.jpg?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.jpg)
 __________________________________________________________
 
 
