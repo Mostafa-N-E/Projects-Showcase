@@ -10,8 +10,9 @@ __________________________________________________________
 
 # Malakut
 ## Malakut version 1
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png"width="400px">
-<img src="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png"width="400px">
+[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png)
+[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png)
+
 <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut.gif"> video </a>
 
 ## Malakut version 2
