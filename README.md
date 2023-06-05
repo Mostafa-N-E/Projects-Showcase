@@ -2,34 +2,41 @@
 Here I will post photos and videos of the projects I did, I hope you like them
 
 
-## BMI Calculator
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/bmi_calculator.gif"> video </a>
-[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.jpg?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/bmi.jpg)
-__________________________________________________________
+##### Recently, I have designed and implemented two projects in both parts BackEnd and FrontEnd
+#### 1.  Malakut
+#### 2.  Student welfare management system
 
 
 
 # Malakut
-## Malakut version 1
-[![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png)
-<!-- [![alt text](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png?raw=true "Logo")](https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut-2.png) -->
+###       The Malkut application is a Quranic program that specifically deals with Quran sessions.
 
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut.gif"> video </a>
+##      Malakut version 1
 
-## Malakut version 2
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut_2.gif"> video </a>
+
+<img src="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/Projects%20images/malakut.png" width="800">
+In the initial version and in the first stage, shows Quranic content in the form of audio, video, images and articles, and Quran sessions
+it shows the address and basic information of the meetings at the country level with the ways of communication with it and the admin, in the following there are facilities such as following...
+
+  <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut.gif"> View the video from the application environment </a>
+
+##      Malakut version 2
+  <a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/malakut_2.gif"> View the video from the application environment </a>
 __________________________________________________________
 
 
 
-# SAMAD
-## SAMAD Staff App
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_staff_app.gif"> video </a>
+# Student welfare management system
+### Food reservation and delivery system and dormitory bus service
+This system has been designed and implemented with the aim of facilitating the provision of welfare services to students and better management of these affairs, in which new technologies have also been used.
+
+## Staff App
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_staff_app.gif">View the video from the application environment</a>
 
 
-## SAMAD Student App
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_student_app.gif"> video </a>
+## Student App
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/samad_student_app.gif">View the video from the application environment</a>
 
 
-## SAMAD Self Service Device
-<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/self_service_device.gif"> video </a>
+## Self Service Device App
+<a href="https://github.com/Mostafa-N-E/Projects-Showcase/blob/main/App%20gifs/self_service_device.gif">View the video from the application environment</a>
